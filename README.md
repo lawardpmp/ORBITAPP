@@ -1,68 +1,12 @@
-# IBM Hackathon GitHub Project Template
 
-This GitHub project template is for IBM Hackathon projects. It includes pre-configured security files to help prevent accidental credential commits and potential account suspension during the hackathon.
+IBM Hackathon GitHub Project NASA THEMED INTRODUCTION OF THE ECO-ORBIT AI DATA STEWARD APP 1.0 BY TEAM DC CYBERGIRLZ
 
-## 🚀 Quick Start
+<img width="1920" height="600" alt="cybergirlznew" src="https://github.com/user-attachments/assets/dba6f931-cb8e-403a-93e9-b7f7006ebe48" />
 
-1. **Use this template to create your project:**
-   - Click "Use this template" button above and select "Create a new repository"
-   - Name your repository
-   - Click "Create repository"
 
-2. **Clone your new repository:**
+<img width="2048" height="1346" alt="BOB2" src="https://github.com/user-attachments/assets/e4345c74-e587-4c8c-b279-6b843a096caf" />
 
-   ```bash
-   git clone https://github.com/HACKATHON-ORG/your-repo-name.git
-   cd your-repo-name
-   ```
 
-3. **Set up environment variables:**
+<img width="2048" height="1346" alt="BOB3" src="https://github.com/user-attachments/assets/aa9e38bc-c00b-4613-9063-3582366c1cbf" />
 
-   ```bash
-   # Copy the example file
-   cp .env.example .env
 
-   # Edit .env with your actual credentials
-   # Use your preferred editor (nano, vim, code, etc.)
-   nano .env
-   ```
-
-4. **Verify .gitignore is working:**
-
-   ```bash
-   # This should NOT show .env file
-   git status
-
-   # This should confirm .env is ignored
-   git check-ignore -v .env
-   ```
-
-5. **Start developing!**
-
-## 🔒 Security Features
-
-This template includes:
-
-- **`.gitignore`** - Prevents committing credentials and live session files
-- **`.bobignore`** - Prevents AI assistants from logging credentials
-- **`.env.example`** - Template for your environment variables
-
-## 📋 Before Every Commit
-
-Always run this checklist:
-
-- [ ] Reviewed `git diff` for sensitive data
-- [ ] No hardcoded API keys or passwords
-- [ ] `.env` file is NOT in staged changes
-- [ ] No files with "credential" or "secret" in name
-- [ ] Used environment variables for all credentials
-
-## 🆘 Need Help?
-
-- Read [SECURITY.md](SECURITY.MD) for detailed guidelines
-- Contact hackathon support through mentor channel
-- Ask in the hackathon Slack workspace
-
----
-
-**Remember:** Security is everyone's responsibility. When in doubt, ask for help!
